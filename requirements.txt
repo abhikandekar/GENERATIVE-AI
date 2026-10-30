@@ -1,0 +1,13 @@
+# LangChain framework
+langchain
+langchain-community
+langchain-huggingface
+
+# Hugging Face model loading and inference
+transformers
+torch
+accelerate
+sentencepiece
+
+# Environment configuration
+python-dotenv
